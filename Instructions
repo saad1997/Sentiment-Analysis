@@ -1,0 +1,7 @@
+Requirements:
+pip install textblob
+pip install tweepy
+Api keys from developer.twitter.com
+
+To Run:
+python sentiment_analysis.py
